@@ -1,2 +1,2 @@
-# SQL-
+# SQL
 Helpful Resources for SQL
